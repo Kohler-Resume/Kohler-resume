@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Kohler-resume
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Elizabeth Kohler
+Accounting Degree, Computer Science Certificate.
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
@@ -13,7 +13,7 @@ Physicist, Mathematician, Cambridge professor.
 
 ## Currently
 
-Standing on the shoulders of giants
+Interning at INL in Idaho
 
 ### Specialized in
 
